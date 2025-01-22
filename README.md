@@ -2,9 +2,6 @@
 - 👀 I’m interested in learning scripting using Python for networking tasks.
 - 🌱 I’m currently learning Python
 - 👍 I’m looking to collaborate on scripting
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Sparr0w4/Sparr0w4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
